@@ -7,18 +7,17 @@ const nums = input.split("\n").map((num) => {
 })
 
 const inputRead = (nums) => {
-    console.log(nums);
     let sum: number = 0;
-    let maxNum: number = 0;
+    let maxNums: number[] = [];
     for (let i = 0; i<nums.length; i++) {
         if (nums[i] != undefined) {
             sum += nums[i];
         } else {
-            maxNum = Math.max(maxNum, sum);
+            maxNums.push(sum);
             sum = 0;
         }
     }
-    return maxNum;
+    return maxNums.sort((a,b) => b - a).splice(0,3).reduce((acc, curr) => acc + curr, 0);
 }
 
 console.log(inputRead(nums));
