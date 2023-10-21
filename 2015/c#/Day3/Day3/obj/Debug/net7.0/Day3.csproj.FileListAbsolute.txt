@@ -1,0 +1,15 @@
+/Users/Toms_Macbook/Coding/advent_of_code/2015/c#/Day3/Day3/bin/Debug/net7.0/Day3
+/Users/Toms_Macbook/Coding/advent_of_code/2015/c#/Day3/Day3/bin/Debug/net7.0/Day3.deps.json
+/Users/Toms_Macbook/Coding/advent_of_code/2015/c#/Day3/Day3/bin/Debug/net7.0/Day3.runtimeconfig.json
+/Users/Toms_Macbook/Coding/advent_of_code/2015/c#/Day3/Day3/bin/Debug/net7.0/Day3.dll
+/Users/Toms_Macbook/Coding/advent_of_code/2015/c#/Day3/Day3/bin/Debug/net7.0/Day3.pdb
+/Users/Toms_Macbook/Coding/advent_of_code/2015/c#/Day3/Day3/obj/Debug/net7.0/Day3.csproj.AssemblyReference.cache
+/Users/Toms_Macbook/Coding/advent_of_code/2015/c#/Day3/Day3/obj/Debug/net7.0/Day3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Toms_Macbook/Coding/advent_of_code/2015/c#/Day3/Day3/obj/Debug/net7.0/Day3.AssemblyInfoInputs.cache
+/Users/Toms_Macbook/Coding/advent_of_code/2015/c#/Day3/Day3/obj/Debug/net7.0/Day3.AssemblyInfo.cs
+/Users/Toms_Macbook/Coding/advent_of_code/2015/c#/Day3/Day3/obj/Debug/net7.0/Day3.csproj.CoreCompileInputs.cache
+/Users/Toms_Macbook/Coding/advent_of_code/2015/c#/Day3/Day3/obj/Debug/net7.0/Day3.dll
+/Users/Toms_Macbook/Coding/advent_of_code/2015/c#/Day3/Day3/obj/Debug/net7.0/refint/Day3.dll
+/Users/Toms_Macbook/Coding/advent_of_code/2015/c#/Day3/Day3/obj/Debug/net7.0/Day3.pdb
+/Users/Toms_Macbook/Coding/advent_of_code/2015/c#/Day3/Day3/obj/Debug/net7.0/Day3.genruntimeconfig.cache
+/Users/Toms_Macbook/Coding/advent_of_code/2015/c#/Day3/Day3/obj/Debug/net7.0/ref/Day3.dll
